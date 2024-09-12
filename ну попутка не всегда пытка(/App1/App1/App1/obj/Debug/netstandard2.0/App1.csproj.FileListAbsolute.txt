@@ -1,0 +1,15 @@
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+D:\c#\ну попутка не всегда пытка(\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

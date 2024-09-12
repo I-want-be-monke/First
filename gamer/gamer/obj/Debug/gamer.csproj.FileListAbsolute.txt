@@ -1,0 +1,10 @@
+D:\c#\gamer\gamer\bin\Debug\gamer.exe.config
+D:\c#\gamer\gamer\bin\Debug\gamer.exe
+D:\c#\gamer\gamer\bin\Debug\gamer.pdb
+D:\c#\gamer\gamer\obj\Debug\gamer.csproj.AssemblyReference.cache
+D:\c#\gamer\gamer\obj\Debug\gamer.Form1.resources
+D:\c#\gamer\gamer\obj\Debug\gamer.Properties.Resources.resources
+D:\c#\gamer\gamer\obj\Debug\gamer.csproj.GenerateResource.cache
+D:\c#\gamer\gamer\obj\Debug\gamer.csproj.CoreCompileInputs.cache
+D:\c#\gamer\gamer\obj\Debug\gamer.exe
+D:\c#\gamer\gamer\obj\Debug\gamer.pdb

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage">
+
+   <!-- <StackLayout>
+
+        <Label Text="Hello World" TextDecorations="Underline" FontSize="20" TextTransform="Uppercase" TextColor="Red"  />
+        <Button Text="klick me " TextColor="Black" />
+        <Label Text="Right?" />
+        <CheckBox/>
+        <RadioButton GroupName="state" />
+        <RadioButton GroupName="state" /> 
+
+
+        <Entry IsPassword="True" Placeholder="Enter password"/>
+        <Entry  Placeholder="Email"/>
+        <Editor Placeholder="enter text" />
+        <Slider Minimum="0" Maximum="100" />
+        <Switch IsToggled= "False"/>
+
+        <Image Source="https://furman.top/uploads/posts/2022-08/1660160734_16-furman-top-p-fon-dlya-prezentatsii-programmirovanie-kra-17.jpg" />
+        <WebView Source="https://www.twitch.tv/" />
+
+    </StackLayout> -->
+
+    <StackLayout>
+        
+        <Label Text=" Regictrachia" FontSize ="25"/>
+        <Entry x:Name="nameField" Placeholder="Enter name"/>
+        <Entry x:Name="emailField" Placeholder="Enter email"/>
+        <Entry x:Name="passField" Placeholder="Enter passord" IsPassword="True" />
+
+        <Label Text="You Argree?" />
+        <CheckBox x:Name="checkField" />
+
+        <Button x:Name="buttonSend" Text="Sent" Clicked ="ButtonClick"/>
+        <Label x:Name="errorText" Text="" TextColor="Red" FontSize="15"/>
+        
+
+
+    </StackLayout>
+
+</ContentPage>

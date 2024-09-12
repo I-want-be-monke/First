@@ -1,0 +1,15 @@
+D:\c#\pogoda\pogoda\pogoda\pogoda\bin\Debug\netstandard2.0\pogoda.deps.json
+D:\c#\pogoda\pogoda\pogoda\pogoda\bin\Debug\netstandard2.0\pogoda.dll
+D:\c#\pogoda\pogoda\pogoda\pogoda\bin\Debug\netstandard2.0\ref\pogoda.dll
+D:\c#\pogoda\pogoda\pogoda\pogoda\bin\Debug\netstandard2.0\pogoda.pdb
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.csproj.AssemblyReference.cache
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.AssemblyInfoInputs.cache
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.AssemblyInfo.cs
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.csproj.CoreCompileInputs.cache
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\XamlC.stamp
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.dll
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\refint\pogoda.dll
+D:\c#\pogoda\pogoda\pogoda\pogoda\obj\Debug\netstandard2.0\pogoda.pdb

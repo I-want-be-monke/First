@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pogoda.MainPage">
+
+    <StackLayout BackgroundColor = "#FFFFFF">
+
+        <StackLayout Background="#725CFF">
+            <Label Text ="Weather" HorizontalOptions="Center" Margin=" 0,50,0,15" FontSize="30" TextColor ="#FFFFFF" FontAttributes="Bold"/>
+            <Image Margin=" 0,0,0,45" Source="https://cdn-icons-png.flaticon.com/512/1788/1788866.png" />
+        </StackLayout>
+        <RelativeLayout>
+            <Frame RelativeLayout.YConstraint="-40" RelativeLayout.XConstraint="-10" Background="#F2E6E6" Margin="80,0" Padding="30" CornerRadius="30">
+                <StackLayout>
+                    <Entry x:Name="Input" WidthRequest="200" Placeholder="City"  />
+                    <Button x:Name="getter" Clicked="getter_Clicked" Text="get weather data" BackgroundColor="#D49228" TextColor="Snow" FontAttributes="Bold" CornerRadius="30"  />
+                </StackLayout>
+            </Frame>
+        </RelativeLayout>
+        <Label x:Name="result" Text="" FontSize="35" HorizontalOptions="Center" TextColor="#333" Margin=" 0,0,0,100"/>
+
+
+
+    </StackLayout>
+
+</ContentPage>

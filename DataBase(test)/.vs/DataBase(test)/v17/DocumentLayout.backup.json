@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\DataBase(test)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|D:\\c#\\DataBase(test)\\database(test)\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|D:\\c#\\DataBase(test)\\database(test)\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|D:\\c#\\DataBase(test)\\database(test)\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|d:\\c#\\database(test)\\database(test)\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\loginforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|d:\\c#\\database(test)\\database(test)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|d:\\c#\\database(test)\\database(test)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|D:\\c#\\DataBase(test)\\database(test)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|D:\\c#\\DataBase(test)\\database(test)\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10892023-D525-4D62-BB6D-4AE5B5B596F4}|DataBase(test)\\DataBase(test).csproj|solutionrelative:database(test)\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\MainForm.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\MainForm.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\MainForm.cs",
+              "RelativeToolTip": "DataBase(test)\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:30:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\MainForm.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\MainForm.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DataBase(test)\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:28:44.196Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\Register.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\Register.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\Register.cs",
+              "RelativeToolTip": "DataBase(test)\\Register.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAUwKQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:00:36.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\Register.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\Register.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DataBase(test)\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:58:49.629Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForms.cs",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\LoginForms.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\LoginForms.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\LoginForms.cs",
+              "RelativeToolTip": "DataBase(test)\\LoginForms.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwFAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:29:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\Program.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\Program.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\Program.cs",
+              "RelativeToolTip": "DataBase(test)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:51:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\LoginForms.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\LoginForms.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\LoginForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DataBase(test)\\LoginForms.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:26:39.12Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\c#\\DataBase(test)\\DataBase(test)\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase(test)\\DataBase.cs",
+              "ToolTip": "D:\\c#\\DataBase(test)\\DataBase(test)\\DataBase.cs",
+              "RelativeToolTip": "DataBase(test)\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:01:45.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
